@@ -1,10 +1,9 @@
-# The Up-Goer Five Text Editor (in JS)
+# Up-Goer Five Text Editor (i JavaScript)
 
-Can you explain a hard idea using only the ten hundred most 
-used words? It's not very easy. A tool inspired by the 
-[XKCD comic "Up Goer Five"](https://xkcd.com/1133/) and the original [up-goer five text editor](http://splasho.com/upgoer5/).
+Kan du forklare en svær idé med kun de tusind mest brugte ord? Det er ikke særligt nemt. Et værtøj inspireret af 
+[XKCD striben "Up Goer Five"](https://xkcd.com/1133/) og den originale [up-goer five tekst behandler](http://splasho.com/upgoer5/).
 
-[Try it yourself](https://bunkerbewohner.github.io/js-up-goer-five/)!
+[Prøv den selv her](https://sideeffectdk.github.io/js-up-goer-five/)!
 
-![Screenshot of the editor](https://raw.githubusercontent.com/Bunkerbewohner/js-up-goer-five/master/screenshot.png)
+![Skærmbillede af værktøjet](https://raw.githubusercontent.com/sideeffectdk/js-up-goer-five/master/screenshot.png)
 
