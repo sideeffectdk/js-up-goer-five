@@ -106,7 +106,7 @@
          * @return {String}
          */
         function strip_special(word) {
-            return word.replace(/[^a-æøåA-ÆØÅ']/g, "").replace("\"", "").replace(".", "");
+            return word.replace(/[^a-zæøåA-ZÆØÅ']/g, "").replace("\"", "").replace(".", "");
         }
 
         /**
